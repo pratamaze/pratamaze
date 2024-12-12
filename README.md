@@ -7,9 +7,16 @@ I'm Rizky Pratama, an Informatics student at UNS (Universitas Sebelas Maret). I 
 
 ## MY GITHUB STATS
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickosong&show_icons=true&locale=en&layout=compact&theme=dark" align="center"/>
-</p>
+
+<a href="https://github.com/Pratamarizkyphe/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pratamarizkyphe&rank_icon=github&theme=dark" />
+</a>
+<a href="https://github.com/Pratamarizkyphe/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratamarizkyphe&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+
+
 
 ## LANGUAGES & TOOLS
 
