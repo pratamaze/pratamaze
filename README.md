@@ -1,2 +1,2 @@
-![](https://github.com/pratamaze/pratamaze/blob/main/pam.jpeg)
+![](https://github.com/pratamaze/pratamaze/blob/main/_.jpeg)
 
